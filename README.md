@@ -39,5 +39,5 @@ Go Skills Excel Challenge Repository
 
 ├── Challenge 34
 
-    ├── challenge30.xlsx
+    ├── challenge34.xlsx
     └── README.md
